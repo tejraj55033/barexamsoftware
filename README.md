@@ -1,3 +1,5 @@
+
+
 XXXX AI is a cutting-edge, AI-powered software platform designed specifically for law students preparing for the bar exam. 
 By combining advanced artificial intelligence with proven learning methodologies, the platform delivers a personalized, adaptive learning experience that maximizes study efficiency and improves exam readiness.
 
