@@ -1,3 +1,4 @@
+![legal-prep-ai-logo](https://github.com/user-attachments/assets/118565ce-99df-48d6-9c06-2b1063f629ad)
 
 
 XXXX AI is a cutting-edge, AI-powered software platform designed specifically for law students preparing for the bar exam. 
